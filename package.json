@@ -1,0 +1,19 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "(app.js)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marielajan/Calculadora.git"
+  },
+  "author": "Mariela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marielajan/Calculadora/issues"
+  },
+  "homepage": "https://github.com/marielajan/Calculadora#readme"
+}
